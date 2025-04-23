@@ -7,4 +7,4 @@ This project is a simple interest calculation program, designed to empower and f
 ## How to use
 1. Repository clone:
    ```bash
-   clone git https://github.com/Bashar99729/microfinance-simple-interest-calculator.git
+   clone git https://github.com/Bashar99729/github-final-project.git
