@@ -1,10 +1,8 @@
-#Simple microfinance interest calculator  
-Simple interest calculator for microfinance
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
-## Description
-This project is a simple interest calculation program, designed to empower and finance low-income individuals within microfinance initiatives.
-
-## How to use
-1. Repository clone:
-   ```bash
-   clone git https://github.com/Bashar99729/github-final-project.git
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
